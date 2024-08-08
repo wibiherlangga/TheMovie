@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TheMovie
 //
-//  Created by User on 08/08/24.
+//  Created by Herlangga Wibi on 08/08/24.
 //
 
 import UIKit
